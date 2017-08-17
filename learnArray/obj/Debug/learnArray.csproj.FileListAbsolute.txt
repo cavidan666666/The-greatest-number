@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\learnArray\learnArray\bin\Debug\learnArray.exe.config
+c:\users\user\documents\visual studio 2017\Projects\learnArray\learnArray\bin\Debug\learnArray.exe
+c:\users\user\documents\visual studio 2017\Projects\learnArray\learnArray\bin\Debug\learnArray.pdb
+c:\users\user\documents\visual studio 2017\Projects\learnArray\learnArray\obj\Debug\learnArray.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\learnArray\learnArray\obj\Debug\learnArray.exe
+c:\users\user\documents\visual studio 2017\Projects\learnArray\learnArray\obj\Debug\learnArray.pdb
